@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  margin: 5px;
+}
+.result {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.math-buttons__operations {
+  display: flex;
+  justify-content: center;
+}

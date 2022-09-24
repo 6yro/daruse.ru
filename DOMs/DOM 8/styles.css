@@ -1,0 +1,9 @@
+.square {
+  max-width: fit-content;
+}
+.square--red {
+  background-color: red;
+}
+.square--green {
+  background-color: green;
+}
